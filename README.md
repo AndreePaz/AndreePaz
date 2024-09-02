@@ -1,5 +1,4 @@
-💫 Acerca de mí:
-
+# 💫 Acerca de mí:
 ¡Hola y bienvenidos a mi perfil de GitHub!
 
 Soy un programador de 24 años originario de Perú, apasionado por el mundo del desarrollo de software y siempre en busca de nuevos retos. Mi nombre es Andreé y, aunque mi experiencia es aún joven, pero tengo mucho entusiasmo y ganas de aprender. Desde que empecé en el mundo de la programación, he estado inmerso en una constante búsqueda de conocimiento, explorando nuevas tecnologías y herramientas que me permiten mejorar mis habilidades y contribuir a proyectos innovadores, entre esas tecnologías tengo conocimiento de: HTML, CSS, Javascript, Figma.
